@@ -39,7 +39,7 @@ numpy >= 1.7.1
 networkx >= 1.9.1  
 
 ## 兼容性
-在Python 2.7.9和Python 3.4.3中测试通过。
+在Python 2.7.9，Python 3.4.3，Python 3.6.2中测试通过。
 
 
 ## 原理
